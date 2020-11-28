@@ -13,7 +13,7 @@ I'm a high school senior looking to attend college as a Software Engineering or 
 
 ## Where You Can Find Me
 ![](https://img.shields.io/badge/%7C-Instagram-blue?style=flat-square&logo=instagram&link=https://www.instagram.com/dylantompkins_/) ![](https://img.shields.io/badge/%7C-Medium-blue?style=flat-square&logo=medium&link=https://medium.com/@dylanltompkins) ![](https://img.shields.io/badge/%7C-YouTube-blue?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC3wzpmStVko6Lwyfwj1EM-g) ![](https://img.shields.io/badge/%7C-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/dylanltompkins/) ![](https://img.shields.io/badge/%7C-Twitter-blue?style=flat-square&logo=twitter&link=https://twitter.com/DylanTompkins_)
-  ![youtube](./assets/youtube.svg)
+  ![youtube](./assets/youtube.svg =250x)
 <!--
 **dylantompkins/dylantompkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
